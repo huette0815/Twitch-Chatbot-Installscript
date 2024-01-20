@@ -14,8 +14,8 @@ sudo apt install -y nodejs build-essential
 echo "Verzeichnis anlegen.."
 echo 
 # Verzeichnis erstellen
-mkdir /home/$USER/bot
-cd /home/$USER/bot
+mkdir $HOME/bot
+cd $HOME/bot
 npm install tmi.js
 # Userinfo
 echo "cred.json anlegen.."
