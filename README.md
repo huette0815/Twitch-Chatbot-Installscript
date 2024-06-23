@@ -3,6 +3,8 @@
  <br>
  <span style="color:RED"> Achtung: es handelt sich um ein Script für Linux. getestet wurde es mit dem Raspberry Pi </span>
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D1M97WO)
 ----
 # cred.json - Infos
 Hier geht es um den Inhalt der 'cred.json' und wie man an die Daten kommt.
